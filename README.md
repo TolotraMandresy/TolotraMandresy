@@ -51,6 +51,10 @@ I'm 21years old and I'm a software engineering student.
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img alt="GitHub streak" src="http://github-readme-streak-stats.herokuapp.com?user=TolotraMandresy&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D">
+</a></br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="langages">
+</a>
 </div>
 </div>
 </div>
