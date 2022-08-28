@@ -13,7 +13,7 @@
 <div align="center">
 <p>
 My fullname is Tolotra Mandresy RASOLONDRAIBE. </br>
-Maybe, you already gessed, by the length of my last name😅, that I'm Malagasy🇲🇬.</br>
+Maybe, you already guessed, by the length of my last name😅, that I'm Malagasy🇲🇬.</br>
 I'm 21years old and I'm a software engineering student.
 </p>
 </div>
