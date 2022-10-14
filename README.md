@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img alt="Coder GIF"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="50%"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tolotra-mandresy-718329235"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100008409820824"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://www.linkedin.com/in/tolotra-mandresy-718329235" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100008409820824" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
 </div>
 <div>
 <img src="https://komarev.com/ghpvc/?username=TolotraMandresy&style=plastic &color=lightgrey" alt="view counter"/>
@@ -49,12 +49,12 @@ I'm 21years old and I'm a software engineering student.
 
 <h2>My Stats :</h2>
 <div align="center">
-<a href="https://git.io/streak-stats">
-<img alt="GitHub streak" src="http://github-readme-streak-stats.herokuapp.com?user=TolotraMandresy&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D">
-</a></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="langages">
-</a>
+    <a href="https://github.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="50%"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolotraMandresy&count_private=true&layout=compact&title_color=283CE5&langs_count=10" width="50%" alt="langages">
+    </a>
 </div>
 </div>
 </div>
