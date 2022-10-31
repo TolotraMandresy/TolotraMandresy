@@ -20,12 +20,14 @@ I'm 21years old and I'm a software engineering student.
 </br>
 
 <h2>Tools and Languages</h2>
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+    
+    </br>
+    
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -42,7 +44,6 @@ I'm 21years old and I'm a software engineering student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" tilte="Arduino" alt="Arduino" width="40" height="40">
 </div>
@@ -50,10 +51,10 @@ I'm 21years old and I'm a software engineering student.
 <h2>My Stats :</h2>
 <div align="center">
     <a href="https://github.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="50%"/>
-    </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="310" height="146"/>
+    </a></br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolotraMandresy&count_private=true&layout=compact&title_color=283CE5&langs_count=10" width="50%" alt="langages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolotraMandresy&count_private=true&layout=compact&title_color=283CE5&langs_count=10" width="310" alt="langages">
     </a>
 </div>
 </div>
