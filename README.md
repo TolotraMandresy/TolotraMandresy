@@ -51,9 +51,9 @@ I'm 21years old and I'm a software engineering student.
     <a href="https://github.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="310" height="146"/>
     </a></br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolotraMandresy&count_private=true&layout=compact&title_color=283CE5&langs_count=10" width="310" alt="langages">
-    </a>
+    </a>-->
 </div>
 </div>
 </div>
