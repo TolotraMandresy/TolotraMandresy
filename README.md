@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/tolotra-mandresy-718329235" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.facebook.com/profile.php?id=100008409820824" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
 </div>
-<div>
-<img src="https://komarev.com/ghpvc/?username=TolotraMandresy&style=plastic &color=lightgrey" alt="view counter"/>
-</div>
 <h1>Hi there👋, I'm Tolotra</h1>
 </div>
 <div>
@@ -21,29 +18,24 @@ I'm 21years old and I'm a software engineering student.
 
 <h2>Tools and Languages</h2>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-    </br> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 
-  </br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
+</br> 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js,typescript,vue" />
+</br>
 
-  </br>
+<img src="https://skillicons.dev/icons?i=figma,xd,illustrator" />
+</br>
+</br>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+</br>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" tilte="Arduino" alt="Arduino" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</br>
+
+<img src="https://skillicons.dev/icons?i=arduino" />
 </div>
 
 <h2>My Stats :</h2>
@@ -51,9 +43,6 @@ I'm 21years old and I'm a software engineering student.
     <a href="https://github.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="310" height="146"/>
     </a></br>
-    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolotraMandresy&count_private=true&layout=compact&title_color=283CE5&langs_count=10" width="310" alt="langages">
-    </a>-->
 </div>
 </div>
 </div>
