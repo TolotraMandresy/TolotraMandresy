@@ -42,7 +42,9 @@ I'm 21years old and I'm a software engineering student.
 <div align="center">
     <a href="https://github.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&title_color=283CE5&show_icons=true&icon_color=283CE5" alt="stats" width="310" height="146"/>
-    </a></br>
+    </a>
+</br>
+<img src="https://github-profile-trophy.vercel.app/?username=TolotraMandresy&theme=onedark&no-bg=true&no-frame=true"/>
 </div>
 </div>
 </div>
