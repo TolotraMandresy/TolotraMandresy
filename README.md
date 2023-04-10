@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
 </br> 
 
-<img src="https://skillicons.dev/icons?i=js,typescript,vue" />
+<img src="https://skillicons.dev/icons?i=js,typescript,vue,angular" />
 </br>
 
 <img src="https://skillicons.dev/icons?i=figma,xd,illustrator" />
