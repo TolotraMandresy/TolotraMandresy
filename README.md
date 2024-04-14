@@ -24,7 +24,7 @@
 </br>
 </br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </br>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
