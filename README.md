@@ -33,13 +33,5 @@
 <img src="https://skillicons.dev/icons?i=arduino" />
 </div>
 
-<h2>My Stats :</h2>
-<div align="center">
-    <a href="https://github.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=TolotraMandresy&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="stats" width="310" height="146"/>
-    </a>
-</br>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=TolotraMandresy&theme=onedark&no-bg=true&no-frame=true"/>-->
-</div>
 </div>
 </div>
