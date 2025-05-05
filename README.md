@@ -14,10 +14,10 @@
 <h2>Tools and Languages</h2>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
 </br> 
 
-<img src="https://skillicons.dev/icons?i=js,typescript,vue,angular" />
+<img src="https://skillicons.dev/icons?i=js,typescript,vue,react,angular" />
 </br>
 
 <img src="https://skillicons.dev/icons?i=figma,xd,illustrator" />
